@@ -362,7 +362,7 @@ Git-GitHub-Complete-Guide/
 │
 ├── chapters
 │   ├── 01-Introduction.md
-│   ├── 02-Installation.md
+│   ├── 02-Installation_and_Setup.md
 │   ├── 03-Git-Basics.md
 │   ├── 04-First-Repository.md
 │   ├── 05-Daily-Workflow.md
@@ -371,9 +371,15 @@ Git-GitHub-Complete-Guide/
 │   ├── 08-Rebase.md
 │   ├── 09-Collaboration.md
 │   ├── 10-Undoing-Mistakes.md
-│   ├── 11-Errors.md
-│   ├── 12-Best-Practices.md
-│   └── 13-Cheat-Sheet.md
+│   ├── 11-Git-Stash.md
+│   ├── 12-Tags-and-Releases.md
+│   ├── 13-Git-Ignore.md
+│   ├── 14-Merge-vs-Rebase.md
+│   ├── 15-Common-Errors.md
+│   ├── 16-Best-Practices.md
+│   ├── 17-Open-Source-Workflow.md
+│   ├── 18-GitHub-Actions.md
+│   └── 19-Cheat-Sheet.md
 │
 ├── diagrams
 │
